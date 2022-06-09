@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100" />
+      <flags value="32" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.70421016" y="-0.8537017" z="-0.23864068" />
+      <bbMax x="0.7028396" y="0.7008876" z="0.8469017" />
+      <bsCentre x="-0.0006852746" y="-0.076407045" z="0.30413052" />
+      <bsRadius value="1.1805655" />
+      <hdTextureDist value="100" />
+      <name>sanjadev_catworkshop</name>
+      <textureDictionary>sanjadev_catworkshop</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>sanjadev_catworkshop</assetName>
+    </Item>
+  </archetypes>
+  <name>sanjadev_catworkshop</name>
+</CMapTypes>
